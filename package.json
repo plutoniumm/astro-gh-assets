@@ -6,10 +6,11 @@
     "dev": "astro dev",
     "start": "astro dev",
     "build": "astro build",
-    "preview": "astro preview",
-    "astro": "astro"
+    "deploy": "npx gh-pages -d dist -t true"
   },
   "dependencies": {
-    "astro": "^2.3.0"
+    "@astrojs/svelte": "^2.1.0",
+    "astro": "^2.3.0",
+    "svelte": "^3.58.0"
   }
 }
