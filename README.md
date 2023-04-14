@@ -1,7 +1,8 @@
 # Astro Reproduction Repo
 
 Check out demo here
-[Demo URL](demo.nukes.in)
+<!-- [Demo URL](demo.nukes.in) -->
+[Demo URL](https://plutoniumm.github.io/astro-gh-assets/)
 
 There are 3 images
 - One where the Astro file `<style>` tag is used for blur

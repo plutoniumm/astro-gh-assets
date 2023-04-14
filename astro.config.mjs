@@ -11,6 +11,7 @@ export default defineConfig( {
   vite: { ssr: Object.create( null ) },
   markdown: {},
   site: 'https://demo.nukes.in',
+  base: './astro-gh-assets',
   server: {
     port: 3000
   },
